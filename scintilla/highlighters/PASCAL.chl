@@ -1,0 +1,23 @@
+[data]
+Filter=Pascal files (*.pas)|*.PAS;*.p|
+SingleComment=//~ 
+Language=18
+LangName=PASCAL
+Keywords[0]=program const type var begin end array set packed record string if then else while for to downto do with repeat until case of goto exit label procedure function nil file and or not xor div mod unit uses implementation interface external asm inline object constructor destructor virtual far assembler near inherited stdcall cdecl library export exports end. class ansistring raise try except on index name finally resourcestring false true initialization finalization override overload 
+Keywords[1]=write read default public protected private property published stored 
+Style[0]=:::V:C::::0:0:16777215:White space:
+Style[1]=:::V:C:::Comic Sans MS:9:32512:16777215:Comment:
+Style[2]=:::V:C:::Comic Sans MS:9:32512:16777215:Line Comment:
+Style[3]=:::V:C:::Comic Sans MS:9:8355711:16777215:Doc Comment:
+Style[4]=:::V:C::::0:8355584:16777215:Number:
+Style[5]=B:::V:C::::0:8323072:16777215:Keyword:
+Style[6]=:I::V:C::::0:8355584:16777215:Double quoted string:
+Style[7]=:I::V:C::::0:8355584:16777215:Single quoted string:
+Style[8]=B:::V:C::::0:32639:16777215:Symbols:
+Style[9]=:::V:C::::0:8355584:16777215:Preprocessor:
+Style[10]=:::V:C::::0:8355584:16777215:Operators:
+Style[32]=:::V:C::::0:0:16777215:Default:
+Style[33]=:::V:C:::Courier New:8:12415347:15724527:Line Number:
+Style[34]=B:::V:C::::0:16711680:16777215:Brace Light:
+Style[35]=B:::V:C::::0:255:16777215:Brace Bad Light:
+Style[37]=:::V:C::::0:0:16777215:Indent Guide:
